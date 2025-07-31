@@ -9,10 +9,6 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 <br>
 
-[Youtube Video](https://youtu.be/i_z0HYk3IuQ?si=S04-IBq7Ny8k0FYC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
-
 # About
 
 ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
@@ -41,13 +37,6 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 - Data Visualization: React Apexcharts
 
 <br>
-
-# Installation
-
-```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
-```
-Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
 ```sh
@@ -84,8 +73,7 @@ If you encounter a network error while signing up, follow these steps to resolve
 2. Add the following line after the import statements:
 
 ```javascript
-const REACT_APP_BASE_URL = "http://localhost:5000";
-```
+
 
 3. Replace all instances of `process.env.REACT_APP_BASE_URL` with `REACT_APP_BASE_URL`.
 
