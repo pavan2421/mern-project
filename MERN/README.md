@@ -32,7 +32,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 ## Technologies Used
 
 - Frontend: React.js, Material UI, Redux Toolkit, Styled Components
-- Backend: Node.js, Express.js, JWT Token
+- Backend: Node.js, Express.js,
 - Database: MongoDB
 - Data Visualization: React Apexcharts
 
@@ -74,14 +74,6 @@ If you encounter a network error while signing up, follow these steps to resolve
 
 ```javascript
 
-
-3. Replace all instances of `process.env.REACT_APP_BASE_URL` with `REACT_APP_BASE_URL`.
-
-The issue arises because the `.env` file in the frontend may not work for all users, while it works for me.
-
-These steps should resolve the network error in the frontend. If the issue persists, feel free to contact me for further assistance.
-
-Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
 # Deployment
 * Render - server side
